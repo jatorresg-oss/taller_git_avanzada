@@ -6,4 +6,4 @@ Integrantes:
 
 Proyecto:
 Aplicación de perfiles del equipo
-Versión: 3.45 Actualización
+Versión: 1.8 Mejora de UI
